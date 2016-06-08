@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="首页" android:icon="@drawable/menu_home" />
+    <item android:title="日常心理"  />
+    <item android:title="用户推荐日报" />
+    <item android:title="电影日报"  />
+    <item android:title="不许无聊"  />
+    <item android:title="设计日报"  />
+    <item android:title="大公司日报"/>
+    <item android:title="财经日报"  />
+    <item android:title="互联网安全"/>
+    <item android:title="开始游戏"  />
+    <item android:title="音乐日报"  />
+    <item android:title="动漫日报"  />
+    <item android:title="体育日报"  />
+</menu>
